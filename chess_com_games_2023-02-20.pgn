@@ -1,0 +1,939 @@
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.09"]
+[Round "6"]
+[White "suliborski30"]
+[Black "uncleyoda"]
+[Result "0-1"]
+[WhiteElo "997"]
+[BlackElo "1141"]
+[TimeControl "180"]
+[EndTime "10:33:34 PST"]
+[Termination "uncleyoda wygrał poprzez danie mata"]
+
+1. e4 e6 2. Nf3 d5 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. e5 c5 6. d4 cxd4 7. Qxd4 Bc5 8.
+Qa4 Ne7 9. O-O O-O 10. b4 Bb6 11. b5 Ng6 12. Re1 Qc7 13. Bb2 Rac8 14. Na3 Qc5
+15. Bd4 Qc7 16. Bxb6 Nxb6 17. Qg4 Nd7 18. Ng5 Ndxe5 19. Qh3 h6 20. Nxe6 fxe6 21.
+Qxe6+ Qf7 22. Rxe5 Nxe5 23. Qxe5 Qxf2+ 24. Kh1 Qf1+ 25. Rxf1 Rxf1# 0-1
+
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.09"]
+[Round "7"]
+[White "ashishdubey111"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "1070"]
+[BlackElo "1013"]
+[TimeControl "180"]
+[EndTime "10:40:46 PST"]
+[Termination "suliborski30 wygrał poprzez danie mata"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 d6 5. d4 exd4 6. Nxd4 Be6 7. Nxc6 bxc6 8.
+Bxe6 fxe6 9. Bg5 Be7 10. f4 O-O 11. e5 h6 12. exf6 Bxf6 13. Bxf6 Qxf6 14. g3 e5
+15. O-O exf4 16. Rxf4 Qg5 17. Rg4 Qe3+ 18. Kh1 Rf2 19. Qd4 Qf3+ 20. Kg1 Qg2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.09"]
+[Round "-"]
+[White "SPECTRER-B"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "862"]
+[BlackElo "1021"]
+[TimeControl "180+2"]
+[EndTime "12:00:59 PST"]
+[Termination "suliborski30 wygrał przez poddanie partii"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 e6 4. Nge2 Nf6 5. d3 d5 6. exd5 exd5 7. Bb5 d4 8. Ne4
+Nxe4 9. dxe4 Bd7 10. Bd3 Be7 11. b3 O-O 12. O-O Re8 13. f3 Bg5 14. Ng3 Ne5 15.
+f4 Nxd3 16. cxd3 Bh6 17. Ba3 b6 18. Bb2 Qh4 19. f5 Be3+ 20. Kh1 Bf4 21. Qe1 Bxf5
+22. Rxf4 Qxf4 23. Nxf5 g6 24. Ng3 h5 25. Rd1 h4 26. Bc1 Qg4 27. h3 Qxg3 28. Qxg3
+hxg3 0-1
+
+[Event "5|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.10"]
+[Round "1"]
+[White "montaserrasheed"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "492"]
+[BlackElo "997"]
+[TimeControl "300"]
+[EndTime "9:03:27 PST"]
+[Termination "montaserrasheed wygrał na czas"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 5. e3 c6 6. Nc3 Bb4 7. Nf3 O-O 8. Bg5
+h6 9. Bxf6 Qxf6 10. Qd3 Re8 11. O-O-O c5 12. a3 c4 13. Qd2 Bxc3 14. Qxc3 b5 15.
+Qa5 b4 16. axb4 Rb8 17. b5 Nc5 18. Qxa7 Bd7 19. Qxc5 Rxb5 20. Qd6 Reb8 21. Kd2
+Rxb2 22. Qxd7 Qg6 23. Rc1 c3+ 24. Kxc3 Rxc2+ 25. Rxc2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.10"]
+[Round "-"]
+[White "suliborski30"]
+[Black "pvvardhanbaldua"]
+[Result "1-0"]
+[WhiteElo "1288"]
+[BlackElo "1199"]
+[TimeControl "600"]
+[EndTime "11:03:13 PST"]
+[Termination "suliborski30 wygrał poprzez danie mata"]
+
+1. e4 e6 2. Nf3 b6 3. d4 Bb7 4. Nc3 d6 5. Bd3 Nd7 6. O-O Ne7 7. Re1 Ng6 8. b3
+Be7 9. Bb2 Bf6 10. e5 dxe5 11. dxe5 Ngxe5 12. Nxe5 Bxe5 13. Qg4 O-O 14. Bxh7+
+Kxh7 15. Re3 Nf6 16. Rh3+ Kg8 17. Qh4 Re8 18. Qh8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.11"]
+[Round "-"]
+[White "Qbzzz"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "956"]
+[BlackElo "983"]
+[TimeControl "180+2"]
+[EndTime "1:50:22 PST"]
+[Termination "Qbzzz wygrał przez poddanie partii"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nf3 Nf6 5. Bg5 Be7 6. Nc3 b6 7. g3 c5 8. dxc5
+bxc5 9. e3 O-O 10. Bg2 Re8 11. O-O Bb7 12. Qb3 Qb6 13. Ne5 h6 14. Bxf6 Bxf6 15.
+Ng4 Bxc3 16. bxc3 h5 17. Bxd5 Bc6 18. Bxc6 1-0
+
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.11"]
+[Round "1"]
+[White "suliborski30"]
+[Black "AshishSharma14"]
+[Result "1-0"]
+[WhiteElo "1001"]
+[BlackElo "1184"]
+[TimeControl "180"]
+[EndTime "2:01:23 PST"]
+[Termination "suliborski30 wygrał na czas"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 d5 4. e3 Bg7 5. Nc3 O-O 6. Be2 Re8 7. O-O Nc6 8. Re1
+e5 9. Qb3 exd4 10. Nxd4 Nxd4 11. exd4 dxc4 12. Qxc4 Ne4 13. Nxe4 Rxe4 14. Be3
+Be6 15. Qc2 Qd5 16. Bf3 Bf5 17. Bxe4 Bxe4 18. Qxc7 Bxg2 19. Qg3 Be4 20. b3 Bxd4
+21. Bxd4 Qxd4 22. Rad1 Qb4 23. Qf4 Bc2 24. Qxb4 Bxd1 25. Rxd1 Rb8 26. Qd6 Rc8
+27. Qf6 Re8 28. Rd8 Rxd8 29. Qxd8+ Kg7 30. Qd4+ 1-0
+
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.11"]
+[Round "2"]
+[White "krieger666999"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "1159"]
+[BlackElo "1018"]
+[TimeControl "180"]
+[EndTime "2:08:08 PST"]
+[Termination "suliborski30 wygrał poprzez danie mata"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 Bf5 4. Bg5 e6 5. Nf3 Be7 6. Ne5 Nc6 7. cxd5 exd5 8.
+Nxc6 bxc6 9. e3 O-O 10. Be2 h6 11. Bf4 c5 12. O-O c6 13. Be5 cxd4 14. exd4 Ne4
+15. f3 Nxc3 16. bxc3 Bg5 17. Qe1 Qe8 18. Qg3 Be3+ 19. Kh1 f6 20. Bf4 Bxf4 21.
+Qxf4 Bh7 22. Rae1 Rf7 23. Qd6 Re7 24. Rf2 Rd8 25. Qf4 Kf7 26. Qd2 g5 27. g4 Rb8
+28. a4 Rb3 29. c4 dxc4 30. Bxc4+ Kg6 31. Rxe7 Rb1+ 32. Rf1 Rxf1+ 33. Bxf1 Qxe7
+34. Bd3+ Kg7 35. Bxh7 Kxh7 36. Qd3+ Kg7 37. Kg2 c5 38. dxc5 Qxc5 39. Qd7+ Kg6
+40. Qxa7 Qxa7 41. a5 Qxa5 42. h3 Qa2+ 43. Kg3 h5 44. gxh5+ Kxh5 45. h4 Qe6 46.
+Kf2 Qh3 47. Ke3 Qxh4 48. Ke2 g4 49. fxg4+ Qxg4+ 50. Kd3 f5 51. Kc3 f4 52. Kd2 f3
+53. Ke1 Qg3+ 54. Kf1 Qg2+ 55. Ke1 f2+ 56. Kd1 f1=Q# 0-1
+
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.11"]
+[Round "3"]
+[White "RakhymzhanAgimanov"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "1099"]
+[BlackElo "1032"]
+[TimeControl "180"]
+[EndTime "2:14:17 PST"]
+[Termination "suliborski30 wygrał poprzez danie mata"]
+
+1. d4 d5 2. Nf3 Bf5 3. a3 Nf6 4. b3 g6 5. Bb2 Bg7 6. Nbd2 O-O 7. e3 e6 8. Be2
+Be4 9. O-O Nc6 10. c4 Ne7 11. c5 c6 12. b4 b6 13. Nxe4 Nxe4 14. Nd2 bxc5 15.
+bxc5 Rb8 16. Rb1 Nxd2 17. Qxd2 Nf5 18. Bd3 Re8 19. Bxf5 exf5 20. Qe2 Qa5 21. Qd3
+Qa4 22. h3 Rb3 23. Qc2 Rxa3 24. Bxa3 Qxc2 25. Bb4 Qe4 26. Ba5 Bh6 27. Bc7 Bxe3
+28. fxe3 Qxe3+ 29. Kh1 Qxd4 30. Bd6 Re6 31. Rb7 a5 32. Rc7 a4 33. Rxc6 a3 34.
+Ra6 Qc4 35. Ra1 Qxa6 36. Rc1 a2 37. Ra1 Rxd6 38. cxd6 Qxd6 39. Rxa2 d4 40. Rd2
+d3 41. Kg1 Qd4+ 42. Kf1 Qe3 43. Ra2 d2 44. Rxd2 Qxd2 45. Kg1 Qd3 46. Kh2 f4 47.
+h4 f5 48. g3 h6 49. Kh3 fxg3 50. h5 gxh5 51. Kh4 Qf3 52. Kh3 Qg4+ 53. Kg2 h4 54.
+Kh1 Qf3+ 55. Kg1 g2 56. Kh2 Qf1 57. Kh3 Qh1# 0-1
+
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.11"]
+[Round "4"]
+[White "suliborski30"]
+[Black "KIA13451345"]
+[Result "0-1"]
+[WhiteElo "1024"]
+[BlackElo "1133"]
+[TimeControl "180"]
+[EndTime "2:20:32 PST"]
+[Termination "KIA13451345 wygrał poprzez danie mata"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Be7 4. d4 exd4 5. Nxd4 Nf6 6. Bf4 O-O 7. Bd3 Nfd7 8.
+Qf3 Bg5 9. Bxg5 Qxg5 10. h4 Qf6 11. Qxf6 Nxf6 12. O-O-O Nc6 13. Nxc6 bxc6 14.
+Rde1 Be6 15. Kb1 Ng4 16. Re2 Nf6 17. Ba6 Bc8 18. Bxc8 Rfxc8 19. e5 dxe5 20. Rxe5
+a5 21. Rc5 Ra6 22. h5 Nd7 23. Rc4 Nb6 24. Re4 Nd5 25. Rhe1 h6 26. Re8+ Rxe8 27.
+Rxe8+ Kh7 28. Nxd5 cxd5 29. b3 Rc6 30. Re7 Kg8 31. g4 Kf8 32. Re3 f6 33. c3 Kf7
+34. Kb2 Re6 35. Rxe6 Kxe6 36. f4 f5 37. g5 hxg5 38. fxg5 Kf7 39. Ka3 f4 40. Ka4
+f3 41. Kxa5 f2 42. b4 f1=Q 43. b5 Qa1 44. Kb4 Qxa2 45. Kc5 Qc4# 0-1
+
+[Event "10|0 Rapid"]
+[Site "Chess.com"]
+[Date "2022.11.13"]
+[Round "2"]
+[White "suliborski30"]
+[Black "alopikon"]
+[Result "1-0"]
+[WhiteElo "1390"]
+[BlackElo "1334"]
+[TimeControl "600"]
+[EndTime "9:06:01 PST"]
+[Termination "suliborski30 wygrał na czas"]
+
+1. d4 d5 2. c4 Nf6 3. Nf3 e6 4. e3 Ne4 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 O-O 8. Bd3
+Nd7 9. O-O c6 10. Re1 Re8 11. Qc2 Ndf6 12. a4 a5 13. c5 Qc7 14. c4 h6 15. h3 g5
+16. Ne5 Kh8 17. Rf1 Rg8 18. f4 g4 19. hxg4 Rxg4 20. Nxg4 Nxg4 21. Bxe4 Bd7 22.
+Bd3 Rg8 23. Rf3 Nf6 24. Rh3 h5 25. Be2 Kg7 26. Rg3+ Kf8 27. Rxg8+ Nxg8 28. Bxh5
+Ke7 29. Qd1 Nf6 30. Bf3 Ne4 31. Bxe4 dxe4 32. Be1 Kd8 33. Bh4+ Kc8 34. Qh5 Kb8
+35. Qxf7 Ka7 36. Qf6 Be8 37. Qe5 Qf7 38. d5 Qd7 39. d6 Qf7 40. Qd4 Qd7 41. Qe5
+1-0
+
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.14"]
+[Round "1"]
+[White "viktor0400"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "601"]
+[BlackElo "1026"]
+[TimeControl "180"]
+[EndTime "9:57:31 PST"]
+[Termination "suliborski30 wygrał przez poddanie partii"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nc6 4. Bc4 dxc3 5. Nh3 cxb2 6. Bxb2 e6 7. O-O Nf6 8.
+Re1 Bb4 9. Bc3 d5 10. exd5 Nxd5 11. Bxg7 Bxe1 12. Bxh8 Bc3 13. Bxd5 Bxa1 14.
+Bxc6+ bxc6 15. Qxd8+ Kxd8 16. Na3 Bxh8 0-1
+
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.14"]
+[Round "2"]
+[White "nerdy_knight64"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "1164"]
+[BlackElo "1019"]
+[TimeControl "180"]
+[EndTime "10:07:41 PST"]
+[Termination "nerdy_knight64 wygrał na czas"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c5 4. Be2 e6 5. O-O Be7 6. h3 O-O 7. b3 b6 8. Bb2 Bb7
+9. Nbd2 Nbd7 10. c4 Qc7 11. Rc1 Bd6 12. cxd5 exd5 13. dxc5 bxc5 14. b4 c4 15.
+Bc3 Ba6 16. a4 Rab8 17. b5 Bc8 18. Nd4 Ba3 19. Ra1 Bd6 20. Nc6 Bh2+ 21. Kh1 Rb6
+22. Ne7+ Kh8 23. Nf3 Bd6 24. Nxd5 Nxd5 25. Qxd5 Bb7 26. Qg5 f6 27. Qg4 Ne5 28.
+Nxe5 Bxe5 29. Bxe5 Qxe5 30. Qxc4 Bd5 31. Qg4 f5 32. Qb4 Rg6 33. Qxf8+ Bg8 34.
+Bc4 1-0
+
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.14"]
+[Round "3"]
+[White "suliborski30"]
+[Black "wuektvata"]
+[Result "1-0"]
+[WhiteElo "1022"]
+[BlackElo "670"]
+[TimeControl "180"]
+[EndTime "10:14:33 PST"]
+[Termination "suliborski30 wygrał poprzez danie mata"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Nc6 5. Bxc4 Bg4 6. Qb3 Na5 7. Bxf7+ Kd7 8.
+Ne5+ Kc8 9. Be6+ Nd7 10. Bxd7+ Bxd7 11. Qd5 e6 12. Qxd7+ Qxd7 13. Nxd7 Kxd7 14.
+Bd2 Nc4 15. b3 Nxd2 16. Nxd2 Bb4 17. O-O-O Rhe8 18. Nc4 e5 19. Nxe5+ Kd6 20.
+Nf7+ Ke6 21. Ng5+ Kf6 22. Nxh7+ Kg6 23. Kb2 Kxh7 24. a3 Bd6 25. h4 Rf8 26. f4 c5
+27. Kc3 cxd4+ 28. Rxd4 Bc5 29. Rd7 Bxe3 30. Rxb7 Rac8+ 31. Kd3 Bxf4 32. Rxa7
+Rfe8 33. Rf1 Rcd8+ 34. Kc4 Re4+ 35. Kc5 Be3+ 36. Kb5 Rd5+ 37. Kc6 Rc5+ 38. Kd6
+Bf4+ 39. Kxc5 Be3+ 40. Kd5 Bxa7 41. Kxe4 Kh6 42. Rf7 Kg6 43. Rxa7 Kf6 44. Kd5 g5
+45. hxg5+ Kxg5 46. b4 Kg4 47. b5 Kg3 48. b6 Kxg2 49. b7 Kf3 50. b8=Q Ke3 51. Ra4
+Kd3 52. Qb3+ Ke2 53. Rc4 Kd2 54. Rc2+ Kd1 55. Qb1# 1-0
+
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.14"]
+[Round "4"]
+[White "suliborski30"]
+[Black "Jeskho"]
+[Result "0-1"]
+[WhiteElo "1014"]
+[BlackElo "1108"]
+[TimeControl "180"]
+[EndTime "10:21:54 PST"]
+[Termination "Jeskho wygrał na czas"]
+
+1. e4 e5 2. Nc3 d6 3. f4 Qh4+ 4. g3 Qf6 5. Nge2 exf4 6. Nd5 Qd8 7. Nexf4 Ne7 8.
+Nc3 Nbc6 9. d4 Bd7 10. d5 Ne5 11. Nd3 N7g6 12. Be2 Be7 13. h4 O-O 14. h5 Nxd3+
+15. cxd3 Ne5 16. d4 Bg5 17. dxe5 Bxc1 18. Qxc1 dxe5 19. h6 g6 20. Qe3 f5 21.
+O-O-O fxe4 22. Nxe4 Bf5 23. Nc3 Qd6 24. Bd3 e4 25. Nxe4 Bxe4 26. Bxe4 Qa6 27.
+Qd4 Rf7 28. Rhf1 Raf8 29. Rxf7 Rxf7 30. d6 Qxa2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.17"]
+[Round "-"]
+[White "suliborski30"]
+[Black "elmere37080166"]
+[Result "0-1"]
+[WhiteElo "1313"]
+[BlackElo "1370"]
+[TimeControl "600"]
+[EndTime "3:14:11 PST"]
+[Termination "elmere37080166 wygrał przez poddanie partii"]
+
+1. d4 c5 2. d5 e6 3. c4 Nf6 4. Nc3 exd5 5. cxd5 d6 6. e4 Be7 7. Nf3 Qa5 8. Bd2
+Qb6 9. Bb5+ Bd7 10. Bxd7+ Nbxd7 11. Qb3 Qc7 12. O-O O-O 13. Nb5 Qc8 14. Ba5 b6
+15. Bc3 Nxe4 16. Rfe1 f5 17. Qc2 Ne5 18. Bxe5 dxe5 19. Rxe4 fxe4 20. Qxe4 Bf6
+21. Nxe5 Re8 22. Nd6 Rxe5 23. Qxe5 Bxe5 24. Nxc8 Rxc8 25. Re1 Bxb2 26. Re7 c4
+27. d6 Rd8 28. d7 Kf8 29. Re2 Bd4 30. Re8+ Rxe8 31. dxe8=Q+ Kxe8 32. Kf1 c3 33.
+Ke2 Ke7 34. Kd3 Bf6 35. g4 b5 36. f4 b4 37. g5 c2 38. Kxc2 Bc3 39. Kb3 Ke6 40.
+a4 a5 41. Kc4 Kf5 42. Kb5 Kxf4 43. Kxa5 b3+ 44. Kb6 b2 45. a5 b1=Q+ 46. Ka7 Bxa5
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.18"]
+[Round "-"]
+[White "imsheikhshafiq"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "837"]
+[BlackElo "1020"]
+[TimeControl "300+2"]
+[EndTime "2:40:34 PST"]
+[Termination "suliborski30 wygrał na czas"]
+
+1. e4 c5 2. c3 Nf6 3. d3 e6 4. Nf3 d5 5. e5 Ng4 6. d4 cxd4 7. cxd4 f6 8. Nc3 Nc6
+9. exf6 Nxf6 10. Ne5 Bb4 11. Nxc6 bxc6 12. Bd2 O-O 13. Qf3 Ne4 14. Nxe4 Rxf3 15.
+gxf3 dxe4 16. fxe4 Bxd2+ 17. Kxd2 Qg5+ 18. Ke1 Qa5+ 19. Ke2 Ba6+ 20. Ke3 Qg5+
+21. f4 Qa5 22. Bxa6 Qxa6 23. Rhg1 Rb8 24. b3 Rb4 25. Rg5 Qb6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.18"]
+[Round "-"]
+[White "carrrrrmen"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "594"]
+[BlackElo "1002"]
+[TimeControl "300+2"]
+[EndTime "5:22:05 PST"]
+[Termination "carrrrrmen wygrał poprzez danie mata"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 Nf6 4. h3 e6 5. e5 Nd5 6. d3 d6 7. exd6 Bxd6 8. Bd2
+Nb6 9. Bb5 O-O 10. Bxc6 bxc6 11. Nc3 c4 12. d4 c5 13. Be3 cxd4 14. Bxd4 Bb7 15.
+a3 Re8 16. Bxg7 Kxg7 17. Qd4+ f6 18. O-O-O e5 19. Qg4+ Kf7 20. Qh5+ Ke7 21.
+Qxh7+ Ke6 22. Rhe1 Rh8 23. Qxb7 e4 24. Nd4+ Ke5 25. Qxe4# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.19"]
+[Round "-"]
+[White "suliborski30"]
+[Black "ShadDoneWin"]
+[Result "1-0"]
+[WhiteElo "1016"]
+[BlackElo "1132"]
+[TimeControl "300+5"]
+[EndTime "3:54:52 PST"]
+[Termination "suliborski30 wygrał - partia porzucona"]
+
+1. d4 d5 2. c4 c5 3. Nf3 dxc4 4. e3 cxd4 5. Nxd4 e5 6. Nf3 Qxd1+ 7. Kxd1 b5 8.
+Nxe5 Bd6 9. Nxc4 bxc4 10. Bxc4 Nf6 11. b3 O-O 12. Ba3 Bxa3 13. Nxa3 Rd8+ 14. Ke2
+Nc6 15. Nb5 Ba6 16. Nc7 Bxc4+ 17. bxc4 Rac8 18. Nb5 Nb4 19. Nxa7 Rxc4 20. a3
+Rd2+ 21. Kxd2 Rc2+ 22. Kd1 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.19"]
+[Round "-"]
+[White "besketbol"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "898"]
+[BlackElo "1002"]
+[TimeControl "300+5"]
+[EndTime "5:35:20 PST"]
+[Termination "besketbol wygrał poprzez danie mata"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7 Kxf7 7. Qf3+ Ke8
+8. Bxd5 Bd6 9. Qf7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.21"]
+[Round "-"]
+[White "pauluslisita-58"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "1189"]
+[BlackElo "1354"]
+[TimeControl "900+10"]
+[EndTime "11:13:14 PST"]
+[Termination "suliborski30 wygrał przez poddanie partii"]
+
+1. e4 c5 2. e5 Nc6 3. Nf3 d6 4. exd6 exd6 5. Nc3 Nf6 6. h3 Be7 7. Bc4 O-O 8. d3
+Be6 9. O-O a6 10. a3 b5 11. Bxe6 fxe6 12. Ne2 d5 13. Nf4 Qd7 14. Re1 e5 15. Nxe5
+Nxe5 16. Rxe5 Bd6 17. Rg5 Bxf4 18. Bxf4 h6 19. Rg6 Qf5 20. Rxf6 Rxf6 21. Bg3
+Raf8 22. Qd2 g5 23. Re1 h5 24. f3 Qg6 25. Re5 Rf5 26. d4 Rxe5 27. dxe5 d4 28.
+Qe2 c4 29. e6 d3 30. cxd3 Qxd3 31. Qe5 Rf5 32. Qb8+ Rf8 33. Qb6 Qb1+ 34. Kh2 Re8
+35. Qe3 Qf5 36. Bd6 Rxe6 37. Qd2 Rxd6 38. Qxd6 Qf4+ 39. Kg1 Qxd6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.21"]
+[Round "-"]
+[White "suliborski30"]
+[Black "pauluslisita-58"]
+[Result "0-1"]
+[WhiteElo "1277"]
+[BlackElo "1200"]
+[TimeControl "900+10"]
+[EndTime "11:50:30 PST"]
+[Termination "pauluslisita-58 wygrał przez poddanie partii"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 a6 4. g3 Nf6 5. Bg2 Bc5 6. Nxe5 Nxe5 7. d4 Bxd4 8.
+Qxd4 Nc6 9. Qe3 Ng4 10. Qf4 d6 11. h3 Nf6 12. Nd5 Nd4 13. Nb4 O-O 14. c3 Ne6 15.
+Qh4 a5 16. Nd5 Nc5 17. Bg5 Nd3+ 18. Ke2 Ne5 19. Bxf6 gxf6 20. Nxf6+ Kg7 21. Qg5+
+Ng6 22. Nh5+ Kh8 23. Qxd8 Rxd8 24. Nf6 Kg7 25. Nd5 Rd7 26. f4 b6 27. f5 Ne5 28.
+f6+ Kg6 29. h4 Bb7 30. h5+ Kg5 31. Raf1 Re8 32. Rf5+ Kh6 33. Nf4 Nc4 34. b3 Na3
+35. Kd3 Re5 36. Rxe5 dxe5+ 37. Nd5 c6 38. c4 cxd5 39. exd5 b5 40. c5 b4 41. c6
+Bxc6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.22"]
+[Round "-"]
+[White "Utzee"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "1070"]
+[BlackElo "994"]
+[TimeControl "300+5"]
+[EndTime "2:34:01 PST"]
+[Termination "Utzee wygrał przez poddanie partii"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Qf3 Nce7 7. Nxf7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.22"]
+[Round "-"]
+[White "suliborski30"]
+[Black "wiktorgacek"]
+[Result "1-0"]
+[WhiteElo "1001"]
+[BlackElo "889"]
+[TimeControl "300+5"]
+[EndTime "2:45:22 PST"]
+[Termination "suliborski30 wygrał poprzez danie mata"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. d4 cxd4 5. Nxd4 Nge7 6. O-O g6 7. Re1 Bg7 8.
+Be3 O-O 9. c3 a6 10. Nd2 b5 11. Bb3 Qb6 12. a4 Nxd4 13. axb5 Qxb5 14. Bxd4 Bxd4
+15. cxd4 Nc6 16. d5 Nd4 17. Ba4 Qxb2 18. Nc4 Qb8 19. Rb1 Nb5 20. e5 exd5 21.
+Qxd5 Bb7 22. Rxb5 axb5 23. Qxb5 Bc6 24. Qxb8 Rfxb8 25. Bxc6 dxc6 26. Nd6 Rb2 27.
+h4 c5 28. f4 Rc2 29. g4 Rd8 30. f5 c4 31. h5 g5 32. e6 fxe6 33. fxe6 Rxd6 34. e7
+Rd4 35. e8=Q+ Kg7 36. Qe5+ Kh6 37. Qf6# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.24"]
+[Round "-"]
+[White "doArante"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "898"]
+[BlackElo "1008"]
+[TimeControl "300+5"]
+[EndTime "2:35:51 PST"]
+[Termination "suliborski30 wygrał poprzez danie mata"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bb4 5. d3 Bxc3+ 6. bxc3 d5 7. exd5 Nxd5 8.
+Bxd5 Qxd5 9. c4 Qe6 10. Bb2 O-O 11. O-O Re8 12. Re1 b6 13. Bxe5 Qg6 14. Bxc7 Bg4
+15. Nh4 Bxd1 16. Nxg6 Rxe1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.26"]
+[Round "-"]
+[White "suliborski30"]
+[Black "QZilla1982"]
+[Result "0-1"]
+[WhiteElo "1226"]
+[BlackElo "1258"]
+[TimeControl "900+10"]
+[EndTime "6:25:29 PST"]
+[Termination "QZilla1982 wygrał - partia porzucona"]
+
+1. d4 d5 2. Nf3 Bg4 3. c4 e6 4. Nc3 Bb4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.26"]
+[Round "-"]
+[White "besnik6699"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "1103"]
+[BlackElo "1001"]
+[TimeControl "300+5"]
+[EndTime "8:20:44 PST"]
+[Termination "besnik6699 wygrał przez poddanie partii"]
+
+1. e4 c6 2. d4 d5 3. e5 f6 4. Qh5+ g6 5. Qe2 fxe5 6. Qxe5 Nf6 7. Bg5 Bg7 8. c3
+Bf5 9. f3 Nbd7 10. Qe3 O-O 11. Nd2 Re8 12. g4 Be6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.26"]
+[Round "-"]
+[White "suliborski30"]
+[Black "besnik6699"]
+[Result "0-1"]
+[WhiteElo "994"]
+[BlackElo "1109"]
+[TimeControl "300+5"]
+[EndTime "8:35:30 PST"]
+[Termination "besnik6699 wygrał przez poddanie partii"]
+
+1. d4 c5 2. d5 b5 3. e3 a6 4. c4 Bb7 5. e4 Nf6 6. Bd3 e5 7. Nf3 Bd6 8. O-O O-O
+9. Bg5 h6 10. Bxf6 Qxf6 11. Nc3 Be7 12. a3 b4 13. axb4 cxb4 14. Ne2 Bc5 15. Ng3
+d6 16. b3 Bc8 17. Qd2 Bg4 18. Ne1 a5 19. Kh1 Nd7 20. f4 Qh4 21. Nf3 Bxf3 22.
+Rxf3 Bd4 23. Nf5 Qf6 24. Nxd4 exd4 25. e5 dxe5 26. fxe5 Qg5 27. Qxg5 hxg5 28.
+Rg3 f6 29. exf6 gxf6 30. Bf5 Nc5 31. Rh3 Rf7 32. Rxa5 Rxa5 33. d6 Ra1+ 0-1
+
+[Event "5|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.11.30"]
+[Round "3"]
+[White "Typowy3_D"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "634"]
+[BlackElo "977"]
+[TimeControl "300"]
+[EndTime "9:21:58 PST"]
+[Termination "Typowy3_D wygrał przez poddanie partii"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 b6 4. Bg2 Nc6 5. e3 Bb7 6. Nge2 Be7 7. O-O O-O 8. d4
+d6 9. b4 Nxb4 10. Bxb7 Rb8 11. Bg2 Ng4 12. dxe5 Bh4 13. exd6 cxd6 14. Ba3 a5 15.
+Rb1 Na6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.03"]
+[Round "-"]
+[White "ophidia777"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "1105"]
+[BlackElo "971"]
+[TimeControl "300+5"]
+[EndTime "5:33:17 PST"]
+[Termination "ophidia777 wygrał przez poddanie partii"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nc6 4. Bc4 e5 5. Nf3 Nf6 6. cxd4 exd4 7. e5 Ne4 8. O-O
+d5 9. Bb3 Bc5 10. Nbd2 Nxd2 11. Bxd2 Be6 12. Ng5 Qd7 13. Kh1 O-O 14. Qc2 Bf5 15.
+Qxc5 Nxe5 16. Bxd5 Nd3 17. Qxd4 h6 18. Nf3 Rfd8 19. Bc3 Kf8 20. Qxg7+ Ke8 21.
+Bb3 Be6 22. Ne5 Nxf2+ 23. Rxf2 Qb5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.06"]
+[Round "-"]
+[White "Sov8"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "1022"]
+[BlackElo "962"]
+[TimeControl "300+5"]
+[EndTime "3:22:48 PST"]
+[Termination "Sov8 wygrał przez poddanie partii"]
+
+1. e4 c5 2. c4 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 d6 6. Nxc6 bxc6 7. Be2 Nf6 8.
+Nc3 d5 9. cxd5 cxd5 10. Bb5+ Bd7 11. Bxd7+ Qxd7 12. e5 Ng8 13. Qa4 Qxa4 14. Nxa4
+Bb4+ 15. Bd2 Bxd2+ 16. Kxd2 Ne7 17. g4 Ng6 18. Rhe1 O-O 19. b3 f5 20. exf6 gxf6
+21. Rxe6 Nf4 22. Rd6 f5 23. g5 Rae8 24. Nc3 a5 25. Rh1 Re5 26. h4 Rc8 27. h5 Rc5
+28. g6 hxg6 29. hxg6 Re6 30. Rd8+ Kg7 31. Rd7+ Kxg6 32. Rg1+ Kf6 33. Rd8 Ke5 34.
+Re1+ Kd4 35. Rxe6 Nxe6 36. Ne2+ Ke5 37. Re8 f4 38. f3 Rc6 39. Kd3 Kf5 40. Nd4+
+Nxd4 41. Kxd4 Rc2 42. a4 Rd2+ 43. Kc5 d4 44. Kc4 d3 45. Kc3 Rd1 46. Rf8+ Ke5 47.
+Re8+ Kd5 48. Rd8+ Kc5 49. Rxd3 Rxd3+ 50. Kxd3 Kb4 51. Kc2 Ka3 52. Kc3 Ka2 53. b4
+axb4+ 54. Kxb4 Kb2 55. a5 Kc2 56. a6 Kd3 57. a7 Ke3 58. a8=Q 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.06"]
+[Round "-"]
+[White "Deter1984"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "1001"]
+[BlackElo "953"]
+[TimeControl "180+2"]
+[EndTime "6:41:16 PST"]
+[Termination "Deter1984 wygrał przez poddanie partii"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 Nxe4 4. dxe5 Bc5 5. Bxf7+ Kxf7 6. Qd5+ Ke8 7. Qxe4 Nc6
+8. Nf3 d5 9. exd6+ Kd7 10. dxc7 Qxc7 11. O-O Re8 12. Qf5+ Kd6 13. Bf4+ Ke7 1-0
+
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.12.09"]
+[Round "1"]
+[White "INALA_T_2008"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "439"]
+[BlackElo "954"]
+[TimeControl "180"]
+[EndTime "2:00:54 PST"]
+[Termination "suliborski30 wygrał poprzez danie mata"]
+
+1. e3 d5 2. Bd3 c5 3. Qf3 e5 4. e4 dxe4 5. Bxe4 Nf6 6. Nc3 Bg4 7. Qg3 Nc6 8.
+Bxc6+ bxc6 9. Na4 Qd7 10. Nxc5 Bxc5 11. f3 Bh5 12. Ne2 Bg6 13. c3 e4 14. d4 Bb6
+15. O-O Nh5 16. Qe5+ Qe7 17. Qxe7+ Kxe7 18. Ng3 Nxg3 19. hxg3 Rhe8 20. fxe4 Bxe4
+21. Bg5+ f6 22. Bh4 Kf8 23. Rae1 Bd3 24. b4 Bxf1 25. Rxf1 Re2 26. Rf2 Rxf2 27.
+Kxf2 a5 28. a3 axb4 29. cxb4 Rxa3 30. g4 Ra2+ 31. Kf3 Bxd4 32. Bf2 Ra3+ 33. Ke2
+Ra2+ 34. Kf1 Rxf2+ 35. Ke1 c5 36. b5 c4 37. b6 Rb2 38. g5 fxg5 39. g4 c3 40. Kd1
+c2+ 41. Kc1 Bc3 42. b7 Be5 43. b8=Q+ Rxb8 44. Kxc2 Rb4 45. Kd3 Rxg4 46. Ke3 Bf6
+47. Kd3 h5 48. Ke3 Rf4 49. Kd3 h4 50. Ke3 h3 51. Kd3 h2 52. Ke3 h1=Q 53. Kd3
+Qh3+ 54. Kc2 Rf2+ 55. Kd1 Qh1# 0-1
+
+[Event "3|0 Blitz"]
+[Site "Chess.com"]
+[Date "2022.12.09"]
+[Round "2"]
+[White "suliborski30"]
+[Black "KIA13451345"]
+[Result "0-1"]
+[WhiteElo "949"]
+[BlackElo "1118"]
+[TimeControl "180"]
+[EndTime "2:04:01 PST"]
+[Termination "KIA13451345 wygrał poprzez danie mata"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 Bd7 5. Bxc4 Bb4+ 6. Bd2 Bd6 7. Nc3 Ne7 8.
+Qb3 Bc6 9. O-O O-O 10. Ne1 Ng6 11. Nd3 Qg5 12. Nf4 Nxf4 13. exf4 Qxg2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.10"]
+[Round "-"]
+[White "suliborski30"]
+[Black "Bar2h"]
+[Result "1-0"]
+[WhiteElo "959"]
+[BlackElo "977"]
+[TimeControl "300+5"]
+[EndTime "1:49:53 PST"]
+[Termination "suliborski30 wygrał na czas"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. d4 Nc6 5. Be3 Bf5 6. Qd2 e6 7. Bb5 Qd7 8.
+Nf3 Nxe3 9. fxe3 f6 10. e4 Bg6 11. d5 a6 12. dxc6 Qxd2+ 13. Nxd2 axb5 14. cxb7
+Rb8 15. Nxb5 Rxb7 16. Nd4 Bb4 17. O-O-O Rb6 18. a3 Bxd2+ 19. Rxd2 Bxe4 20. Rg1
+O-O 21. g3 Rd8 22. Re1 Bd5 23. b3 c5 24. Ne2 Ra8 25. Kb2 Kf7 26. Nc3 Rd8 27. Na4
+Rc6 28. c4 Bxc4 29. Rxd8 Bd5 30. Nc3 Bf3 31. Rd7+ Kg6 32. Re7 e5 33. Ne4 c4 34.
+b4 c3+ 35. Nxc3 Rd6 36. Kb3 Rd3 37. h4 Bd5+ 38. Kc2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.20"]
+[Round "-"]
+[White "onysangaliev1964"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "1284"]
+[BlackElo "1277"]
+[TimeControl "900+10"]
+[EndTime "1:47:01 PST"]
+[Termination "suliborski30 wygrał poprzez danie mata"]
+
+1. e4 c5 2. Bc4 e6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd2 Nf6 6. Nc3 Bb4 7. f3 O-O 8.
+Nge2 b6 9. a3 Bxc3 10. Qxc3 d5 11. exd5 exd5 12. Bd3 Bb7 13. O-O d4 14. Qe1 Re8
+15. Bg5 Re6 16. Qg3 h6 17. Bxh6 Nh5 18. Qf2 Rxh6 19. g4 Nf4 20. Kh1 Nxd3 21.
+cxd3 Ne5 22. Ng1 Nxd3 23. Qd2 Ba6 24. Rfb1 Qh4 25. b4 Nf2+ 26. Qxf2 Qxf2 27. h3
+Rxh3+ 28. Nxh3 Qxf3+ 29. Kh2 Qxg4 30. Rg1 Qe2+ 31. Rg2 Qe5+ 32. Kg1 Bb7 33. Rf2
+Qg3+ 34. Kf1 Qxh3+ 35. Ke2 Ba6+ 36. Kd2 Qe3+ 37. Kc2 Qxf2+ 38. Kb3 Rc8 39. Ka4
+Qc2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.29"]
+[Round "-"]
+[White "suliborski30"]
+[Black "jkhurana94"]
+[Result "0-1"]
+[WhiteElo "948"]
+[BlackElo "975"]
+[TimeControl "300+5"]
+[EndTime "11:09:31 PST"]
+[Termination "jkhurana94 wygrał przez poddanie partii"]
+
+1. d4 Nf6 2. c4 d5 3. Nf3 e6 4. e3 Bb4+ 5. Nbd2 c5 6. Be2 h6 7. O-O O-O 8. a3
+Bxd2 9. Bxd2 cxd4 10. exd4 Nc6 11. b4 b6 12. Qc1 a6 13. Bxh6 Ne4 14. Bg5 f6 15.
+Bh4 Ne7 16. Bd3 Nf5 17. Bxe4 Nxh4 18. Nxh4 dxe4 19. Re1 Qxd4 20. Ng6 Rf7 21. Qf4
+Qxc4 22. Qh4 Rc7 23. Qh8+ Kf7 24. Nf4 0-1
+
+[Event "PGNiG TERMIKA Otwarty Grudniowy Turniej Szachowy"]
+[Site "Chess.com"]
+[Date "2022.12.29"]
+[Round "2"]
+[White "szlivers"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "1601"]
+[BlackElo "969"]
+[TimeControl "300"]
+[EndTime "11:20:48 PST"]
+[Termination "suliborski30 wygrał na czas"]
+
+1. f4 c5 2. e4 Nc6 3. Nf3 e6 4. c3 d5 5. e5 f6 6. d4 cxd4 7. cxd4 Bb4+ 8. Nc3
+Nh6 9. Bd3 O-O 10. O-O Bd7 11. Qe1 Ba5 12. Qh4 Bb6 13. Be3 fxe5 14. fxe5 Qxh4
+15. Nxh4 Ng4 16. Nd1 Rxf1+ 17. Bxf1 Nxe3 18. Nxe3 Bxd4 19. Re1 Bxb2 20. Nf3 Rf8
+21. Bd3 Bxe5 22. Ng4 Bd6 23. Ng5 g6 24. h3 e5 25. Ne3 e4 26. Nxd5 exd3 27. Nf3
+Bf5 28. Ne3 Re8 29. Kf2 Bc5 30. g4 Be4 31. Ng5 Kg7 32. Kg3 d2 33. Rb1 Bxe3 34.
+Rxb7+ Kf6 35. Nxe4+ Rxe4 0-1
+
+[Event "PGNiG TERMIKA Otwarty Grudniowy Turniej Szachowy"]
+[Site "Chess.com"]
+[Date "2022.12.29"]
+[Round "3"]
+[White "DolasF"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "1406"]
+[BlackElo "967"]
+[TimeControl "300"]
+[EndTime "11:28:15 PST"]
+[Termination "DolasF wygrał przez poddanie partii"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Nc6 4. Nf3 d5 5. cxd5 Nxd5 6. Nc3 Be6 7. O-O Bd6 8. e4
+Ndb4 9. d4 exd4 10. Nxd4 Nxd4 11. Qxd4 O-O 12. e5 Nc2 13. Qe4 Nxa1 14. exd6 cxd6
+15. Bf4 d5 16. Qd4 Nc2 17. Qa4 Bf5 18. Nxd5 Rc8 19. Qxa7 b5 20. Ne7+ 1-0
+
+[Event "PGNiG TERMIKA Otwarty Grudniowy Turniej Szachowy"]
+[Site "Chess.com"]
+[Date "2022.12.29"]
+[Round "4"]
+[White "suliborski30"]
+[Black "krabojad"]
+[Result "0-1"]
+[WhiteElo "966"]
+[BlackElo "1457"]
+[TimeControl "300"]
+[EndTime "11:40:16 PST"]
+[Termination "krabojad wygrał na czas"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 c5 5. b3 Nc6 6. Bb2 cxd4 7. exd4 Bb4+ 8. Nbd2
+O-O 9. Be2 Re8 10. O-O Bd6 11. c5 Bf4 12. b4 a6 13. Bc3 Ne4 14. Qc2 f5 15. g3
+Bxd2 16. Bxd2 Nxd2 17. Qxd2 Qf6 18. Rfe1 Bd7 19. Bd1 Na7 20. Ne5 Bb5 21. a4 Bc4
+22. Nxc4 dxc4 23. Qc3 Rad8 24. Qxc4 Rxd4 25. Qb3 Nc6 26. b5 axb5 27. axb5 Rb4
+28. Qf3 Qxa1 29. bxc6 bxc6 30. Qxc6 Qa8 31. Qxa8 Rxa8 32. Rxe6 Kf7 33. Re3 Re8
+34. Rxe8 Kxe8 35. c6 Kd8 36. Bf3 g5 37. Kg2 Kc7 38. h4 g4 39. Bd5 Rb5 40. Bc4
+Rc5 41. Be2 Rxc6 42. f3 Rc2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.30"]
+[Round "-"]
+[White "suliborski30"]
+[Black "bchee"]
+[Result "1-0"]
+[WhiteElo "978"]
+[BlackElo "997"]
+[TimeControl "300+5"]
+[EndTime "2:41:36 PST"]
+[Termination "suliborski30 wygrał przez poddanie partii"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. Nc3 Nf6 5. d4 Bd6 6. Be3 O-O 7. Bd3 Re8 8.
+O-O Nbd7 9. Re1 c5 10. dxc5 Nxc5 11. Bg5 Be6 12. Nh4 h6 13. Bxf6 Qxf6 14. g3
+Nxd3 15. Qxd3 d4 16. Ne4 Qd8 17. Qxd4 Rc8 18. Qxd6 Qxd6 19. Nxd6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.19"]
+[Round "-"]
+[White "Wen_Hammer"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "1519"]
+[BlackElo "1258"]
+[TimeControl "900+10"]
+[EndTime "11:16:26 PST"]
+[Termination "Wen_Hammer wygrał przez poddanie partii"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 c5 5. cxd5 exd5 6. Bg2 b6 7. Nc3 Bb7 8. O-O
+Be7 9. dxc5 bxc5 10. Qb3 Qb6 11. Nh4 Qxb3 12. axb3 O-O 13. Nf5 Re8 14. Nb5 Na6
+15. Nbd6 Bxd6 16. Nxd6 Re7 17. Nxb7 Rxb7 18. Rxa6 Rxb3 19. Rxf6 gxf6 20. Bxd5
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.22"]
+[Round "-"]
+[White "suhail1293"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "921"]
+[BlackElo "964"]
+[TimeControl "300+5"]
+[EndTime "3:39:04 PST"]
+[Termination "suhail1293 wygrał przez poddanie partii"]
+
+1. e4 e5 2. Bc4 Nc6 3. a3 Nf6 4. d3 b6 5. Nf3 Bb7 6. Ng5 d5 7. exd5 Nxd5 8. Qf3
+f5 9. Qxf5 Nce7 10. Qf7+ Kd7 11. Bxd5 Bxd5 12. Qh5 Bxg2 13. Qg4+ Ke8 14. Qxg2
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.23"]
+[Round "-"]
+[White "sluanfs"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "1378"]
+[BlackElo "1231"]
+[TimeControl "900+10"]
+[EndTime "11:00:11 PST"]
+[Termination "sluanfs wygrał przez poddanie partii"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 d5 5. d3 f6 6. Qh5+ Ke7 7. Qf7+ Kd6 8.
+Bf4 fxe5 9. dxe4 Be6 10. Bxe5+ Kxe5 11. f4+ Kxe4 12. Qxe6+ Kxf4 13. g3+ Kg5 14.
+Qe5+ Kh6 15. h4 g6 16. Nc3 Qe7 17. Qxe7 Bxe7 18. Nxd5 Bd6 19. O-O-O Bxg3 20. Be2
+c6 21. Nf6 Bf4+ 22. Kb1 Rf8 23. Ng4+ Kg7 24. Rhf1 h5 25. Nf2 Bg3 26. Ne4 Rxf1
+27. Bxf1 Bxh4 28. a4 Na6 29. Rd7+ Kh6 30. Rxb7 Re8 31. Bxa6 Rxe4 32. Rxa7 Rxa4
+33. Ra8 Kg5 34. b3 Rf4 35. Bb7 c5 36. Rc8 Rf1+ 37. Ka2 Bf2 38. Be4 Kf4 39. Bxg6
+h4 40. Rf8+ Kg3 41. Bd3 h3 42. Bxf1 h2 43. Rg8+ Kh4 44. c3 h1=Q 45. Rh8+ 1-0
+
+[Event "PGNiG TERMIKA Otwarty Styczniowy Turniej Szachowy"]
+[Site "Chess.com"]
+[Date "2023.01.26"]
+[Round "1"]
+[White "Robgol1"]
+[Black "suliborski30"]
+[Result "1-0"]
+[WhiteElo "1882"]
+[BlackElo "964"]
+[TimeControl "300"]
+[EndTime "11:07:38 PST"]
+[Termination "Robgol1 wygrał przez poddanie partii"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 Nc6 7. Rc1 h6 8. Bxf6
+Bxf6 9. cxd5 exd5 10. Bd3 Be6 11. O-O Nb4 12. Bb1 a5 13. h3 Qd7 14. Qe2 b6 15.
+a3 Nc6 16. Nb5 Rfc8 17. Qc2 Bxh3 18. Qxc6 Qg4 19. Ne1 Bd8 20. Qxd5 c5 21. dxc5
+bxc5 22. Qf3 Qxf3 23. Nxf3 Bg4 24. Ne5 Bb6 1-0
+
+[Event "5|0 Blitz"]
+[Site "Chess.com"]
+[Date "2023.02.07"]
+[Round "1"]
+[White "D1egoFramos"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "442"]
+[BlackElo "965"]
+[TimeControl "300"]
+[EndTime "8:56:50 PST"]
+[Termination "suliborski30 wygrał poprzez danie mata"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nxc6 bxc6 6. Nc3 d5 7. exd5 cxd5 8.
+Be3 Nf6 9. g3 g6 10. Bg5 Bg7 11. Qf3 h6 12. Bxf6 Qxf6 13. O-O-O Qxf3 14. Bb5+
+Bd7 15. Bxd7+ Kxd7 16. Nb5 Rab8 17. Nxa7 Bxb2+ 18. Kb1 Ba3+ 19. Ka1 Qc3# 0-1
+
+[Event "5|0 Blitz"]
+[Site "Chess.com"]
+[Date "2023.02.07"]
+[Round "2"]
+[White "suliborski30"]
+[Black "Rnld07"]
+[Result "0-1"]
+[WhiteElo "958"]
+[BlackElo "1136"]
+[TimeControl "300"]
+[EndTime "9:14:14 PST"]
+[Termination "Rnld07 wygrał na czas"]
+
+1. Nf3 d5 2. g3 Nc6 3. Bg2 e5 4. O-O Nf6 5. d4 Bd6 6. b3 exd4 7. Nxd4 Nxd4 8.
+Qxd4 O-O 9. Bb2 Re8 10. Re1 Be5 11. Qxe5 Rxe5 12. Bxe5 Qe7 13. Bd4 Bf5 14. Nc3
+b6 15. Bxf6 Qxf6 16. Nxd5 Qe5 17. e4 Bg4 18. h3 Be6 19. f4 Qb2 20. c4 Rd8 21.
+Reb1 Qc2 22. Rd1 Bxd5 23. cxd5 c6 24. Rac1 Qe2 25. Re1 Qd3 26. dxc6 Qxg3 27. c7
+Rc8 28. Red1 g5 29. Rd8+ Kg7 30. Rxc8 Qe3+ 31. Kh1 Qxc1+ 32. Kh2 Qxf4+ 33. Kh1
+Qc1+ 34. Kh2 h5 35. e5 Qc3 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.10"]
+[Round "-"]
+[White "suliborski30"]
+[Black "QNH1013"]
+[Result "0-1"]
+[WhiteElo "949"]
+[BlackElo "1078"]
+[TimeControl "300+5"]
+[EndTime "5:25:02 PST"]
+[Termination "QNH1013 wygrał przez poddanie partii"]
+
+1. d4 d5 2. c4 Nf6 3. Nf3 Bf5 4. cxd5 Qxd5 5. g3 e6 6. Bg2 Be4 7. O-O Nc6 8. e3
+O-O-O 9. Nc3 Bxf3 10. Bxf3 Qc4 11. Be2 Qb4 12. a3 Qa5 13. b4 Bxb4 14. Bb2 Bxc3
+15. Bxc3 Qg5 16. Bf3 h5 17. Qa4 h4 18. Bxc6 bxc6 19. Qxc6 hxg3 20. fxg3 Nd5 21.
+Qa8+ Kd7 22. Qxa7 Qxe3+ 23. Rf2 Qxc3 24. Qa4+ Ke7 25. Rc2 Qxa1+ 26. Kg2 Ne3+ 27.
+Kf3 Nxc2 28. Qxc2 Qxd4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.11"]
+[Round "-"]
+[White "Kartyrx"]
+[Black "suliborski30"]
+[Result "0-1"]
+[WhiteElo "995"]
+[BlackElo "964"]
+[TimeControl "180+2"]
+[EndTime "3:23:50 PST"]
+[Termination "suliborski30 wygrał - partia porzucona"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. O-O Nd6 5. Bb3 Be7 6. Nxe5 O-O 7. d3 Bf6 8.
+f4 Nc6 9. Nxc6 bxc6 10. Nd2 Nf5 11. Ne4 d5 12. Nxf6+ Qxf6 13. c3 c5 14. Bd2 Bb7
+15. Re1 Qg6 16. d4 cxd4 17. cxd4 Nxd4 18. Bc2 Nxc2 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.11"]
+[Round "-"]
+[White "suliborski30"]
+[Black "Yuvaraj77777"]
+[Result "1-0"]
+[WhiteElo "979"]
+[BlackElo "1041"]
+[TimeControl "180+2"]
+[EndTime "3:28:26 PST"]
+[Termination "suliborski30 wygrał przez poddanie partii"]
+
+1. d4 e5 2. d5 Nf6 3. c4 c6 4. Nf3 Bd6 5. dxc6 Nxc6 6. Qxd6 Ne4 7. Qd3 f5 8. g3
+Nb4 9. Qb3 Qa5 10. Bd2 Nxd2 11. Nfxd2 b6 12. Bg2 Rb8 13. a3 Na6 14. O-O Nc5 15.
+Qb4 Bb7 16. Bxb7 Rxb7 17. Nc3 O-O 18. Qxa5 bxa5 19. Rab1 Nb3 20. Nxb3 Rxb3 21.
+Rfd1 Rd8 22. Rd5 f4 23. gxf4 exf4 24. Rxa5 h6 25. Rxa7 g5 26. Ra5 g4 27. Rf5 g3
+28. hxg3 fxg3 29. fxg3 Re8 30. Kf2 1-0
